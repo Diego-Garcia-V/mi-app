@@ -213,7 +213,7 @@
         "id": 10,
         "nombre": "David",
         "email": "david.ruiz@educastur.org",
-        "password": "$2y$10$WM.h8tqMhvbc//bQasC/0.l/xeQXEs83lcbvFnPzmbUwr5jWcShyW",
+        "password": "$2y$10$2JqViadRxn0.FEE9zmUOweapiMxPhuLk/65EmbQUwqtNgcw0oZD8O",
         "rol": {
           "id": 2,
           "nombre_rol": "admin",
@@ -294,6 +294,50 @@
       "fecha_registro": "2025-12-03",
       "estado": "Abierta",
       "ubicacion": "a202"
+    },
+    {
+      "id": "14",
+      "usuario": {
+        "id": 9,
+        "nombre": "Patricia",
+        "email": "patricia.gomez@educastur.org",
+        "password": "1234",
+        "rol": {
+          "id": 2,
+          "nombre_rol": "admin",
+          "descripcion": "Administrador del sistema con permisos totales"
+        },
+        "fecha_registro": "2025-10-21"
+      },
+      "titulo": "incidencia1",
+      "descripcion": "descrip1",
+      "categoria": "software",
+      "nivel_urgencia": "Media",
+      "fecha_registro": "2026-04-28",
+      "estado": "Abierta",
+      "ubicacion": "a303"
+    },
+    {
+      "id": "15",
+      "usuario": {
+        "id": 8,
+        "nombre": "Miguel",
+        "email": "miguel.ramirez@educastur.org",
+        "password": "$2y$10$nAZ8jhFEB93.qT45L.ucz.au9gfQ6yayQPjYiMU8jJW8Sa5UQ577i",
+        "rol": {
+          "id": 1,
+          "nombre_rol": "comun",
+          "descripcion": "Usuario regular del sistema"
+        },
+        "fecha_registro": "2025-10-21"
+      },
+      "titulo": "incidencia2",
+      "descripcion": "descrip2",
+      "categoria": "software",
+      "nivel_urgencia": "Media",
+      "fecha_registro": "2026-04-28",
+      "estado": "Abierta",
+      "ubicacion": "a303"
     }
   ],
   "users": [
@@ -301,7 +345,7 @@
       "id": 1,
       "nombre": "Ana",
       "email": "ana.lopez@educastur.org",
-      "password": "$2y$10$paOaxwKhEBC4W/cVeG85puc9W/hoMlzquXQ/6hrMD6VdqIc/mEToq",
+      "password": "$2y$10$lgcV7jdcq2nPd5tdZrQcDODjGcy7KbvGf9FwSKZzUkwVDYr6d6HqW",
       "rol": {
         "id": 1,
         "nombre_rol": "comun",
@@ -397,7 +441,7 @@
       "id": 9,
       "nombre": "Patricia",
       "email": "patricia.gomez@educastur.org",
-      "password": "$2y$10$2xnlupLIDZi4asqQTFUfu.GKWe/Hy8C07R1.CyvVrUq2JBjOoiiZC",
+      "password": "$2y$10$ecV7JIc/he4gTk2500fPveMdBoCs9G1OZzrkqbatCxROeXI5hXdXi",
       "rol": {
         "id": 2,
         "nombre_rol": "admin",
@@ -409,7 +453,7 @@
       "id": 10,
       "nombre": "David",
       "email": "david.ruiz@educastur.org",
-      "password": "$2y$10$WM.h8tqMhvbc//bQasC/0.l/xeQXEs83lcbvFnPzmbUwr5jWcShyW",
+      "password": "$2y$10$dVoLTMT0DLtL4xW4ewctMOX2gH/8wWy8abhRRadhaY1PcOkMS15GC",
       "rol": {
         "id": 2,
         "nombre_rol": "admin",
