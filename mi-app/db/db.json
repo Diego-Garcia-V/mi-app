@@ -482,6 +482,12 @@
         "descripcion": "Administrador del sistema con permisos totales"
       },
       "fecha_registro": "2025-10-21"
+    },
+    {
+      "email": "luistorres@gmail.com",
+      "password": "$2a$10$hWzSl8L1SVHgVd14/ECNiucE5qYeAZ8ffVAV2oPsM/MerU96lY6pO",
+      "id": "11",
+      "nombre": "Luis Torres"
     }
   ],
   "roles": [
